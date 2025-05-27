@@ -77,7 +77,7 @@ src/
 
 ## License
 
-MIT © [Your Name]
+MIT © Aditya Ranjan
 
 ---
 For support: [create an issue](https://github.com/yourusername/sales-analytics-suite/issues)
